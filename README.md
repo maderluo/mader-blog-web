@@ -1,5 +1,5 @@
 # mader-blog-web
-
+personal blog
 ## Project setup
 ```
 npm install
