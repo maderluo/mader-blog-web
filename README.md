@@ -6,6 +6,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npm run build-staging`
+
+Builds the app for staging to the `build` folder.\
+You can edit config in the `.env.staging` file.\
+预演模式下打包 app 到`build`文件夹.\
+你可以在`.env.staging`文件中编写配置.\
+
 ### `npm start`
 
 Runs the app in the development mode.\
